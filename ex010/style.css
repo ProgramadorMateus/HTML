@@ -1,0 +1,61 @@
+@charset "UTF-8";
+
+body{
+    background-color: #e4e4e4;
+    
+    
+}
+
+h1{
+    color: blueviolet;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center
+    
+}
+
+h2{
+    background-color: #a300d4;
+    text-align: center;
+    color: aliceblue;
+}
+
+.corexplicativo{
+    color: #a300d4;
+    background-color: #e4e4e4;
+}
+
+.cor1{
+    color: #a300d4;
+}
+.cor2{
+    color:blue;
+}
+.cor3{
+    color:deeppink;
+}
+
+p{
+    background-color: #a300d4;
+    color: aliceblue;
+    
+}
+
+.videocenter{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+
+}
+
+.psembarra{
+    color: black;
+    background-color: #e4e4e4;
+}
+
+.testeinter{
+    background-color: rgb(0, 217, 255);
+}
+
+.testeavancado{
+    background-color: rgb(255, 112, 179);
+}

@@ -1,0 +1,124 @@
+ANOTAÇÃO HTML:
+
+tag title:Nome da pagina
+tag h1:"titulo de primeiro nivel" serve para dar ordem h1,h2,h3
+tag hr: cria uma linha
+tag P: Paragrafo
+tag Br: quebra de linha
+tag !:texto base do html
+tag <!--: cria comentario 
+tag para simbolos especias: PROCURAR NA INTERNET
+tag para simbolos de emoji: &#x + numeração do site emojipedia
+tag &LT:SIMBOLO <(MENOR QUE)
+TAG &GT: SIMBOLO >(MAIOR QUE)
+
+SITES PARA PEGAR IMAGEM(NO PDF DO GUANABARA TEM)
+1-UNSPLASH (BUSCA EM INGLES)
+2-PEXELS ( BUSCA EM INGLES)
+OBS: ATENTOS NAS BUSCAS 
+
+SITE PARA EDIÇÃO DE IMAGEM
+1-GIMP(FREE)
+2-PHOTOSHOP(PAGO/CRACK)
+
+tag img:Para adicionar imagem
+ctrl(control) + tecla espaço: para selecionar a imagem de dentro da pasta
+OBS: ABRIR LOGO DIRETO DA INTERNET E SO ACHAR E COPIAR O ENDERECO DE IMAGEM (BOTAO DIREITO/COPIA
+R ENDERECO DA IMG) 
+E COLAR NO SRC"COLAR ENDEREÇO AQUI"(ESTA PROCURANDO IMG NO SERVIDOR, SE ELE CAIR A IMG SOME)
+
+SITE PARA CRIAR ICONE FAVICON.CC/ FAVICON.IO(PARA IMAGEM PRONTA)
+PARA ADD UM FAVICON E SO POR NO HEAD EM CIMA DO TITLE A TAG "LINK:FAVICON" E POR O ICON DEPOIS DO "HREF"
+CTRL+ESPAÇO
+
+FORMATAÇÃO DE TEXTO
+
+Tag B: Sentido de forma em negrito
+Tag STRONG: Sentido de forte/ destaque em negrito
+Tag I: Sentido de forma em Italico 
+Tag EM: Sentido de forrma em italico mas com significado 
+OBS: NÃO FAZ SENTIDO USAR B E I
+OBS: CTRL+SHIF+P (Envelope com a abreviatura/ Wrap with abbreviation) serve para 
+add forma de texto
+
+MARCAÇÃO DE TEXTO
+ <style>
+        mark { background-color: aquamarine;
+
+        }
+    </style> 
+OBS: PARA POR A MESMA COR EM TODOS 
+
+tag SUP: Deixa o numero em cima
+TAG SUB: Deixa o numeri em baixo
+
+tag CODE: serve para deixar a leitura melhor(principalmente de codigo)
+TAG PRE: SERVE PARA DEIXAR COMO VC ESCREVEU O CODIGO
+OBS: PARA TIRAR O ESPACO BASTA SELECIONAR TUDO(SO O COD) SO SEGURAR O SHIFT+TAB
+PARA DAR ESPAÇO SO APERTA TECLA TAB
+
+CITAÇÕES 
+
+Tag blockquote: serva para fazer citação de algo
+OBS: Usar a TAG CITE( O link da citação para o sistema de fontes do google entender)
+essa tag não cria nenhum link
+
+ABREVIAÇÕES MARCAÇÃO
+
+Tag abbr: serve para mostrar o texto da abreviação (não da para clicar) 
+
+lista ordenadas
+Tag OL
+LISTA NÃO ORDENADAS
+Tag UL
+
+OBS:Pode por uma lista dentro de outra
+
+LINKS
+Tag Target"_blank": Serva para o link abri outra aba no seu navegador
+Tag A: gerar o link
+Tag rel:"external": Indicar que o link e externo 
+Tag Target"self": Serva para falar que o link e na propia pagina 
+
+Utilizar "../" para voltar a pagina caso esteja dentro de uma pasta
+
+
+CSS
+
+PARA POR CSS NO HTML E SO POR:
+<link rel="stylesheet" type="text/css" href="style.css">
+
+MUDAR BACKGROUND
+html,body {
+    background-color: rgb(219, 219, 219);
+}
+
+PARA POR CLASS NO CSS E SO POR "."
+OBS: Pode se usado varias vezes
+PARA POR ID NO CSS E SO POR "#"
+OBS: So pode ser usado 1 vez
+
+SEGURANDO O ALT VC CLICK EM VARIAR PARTES E ELE ESCREVE ONDE VC CLICOU
+
+Tag font-weigth: para pode negrito/ italico etc...
+tag span: usa para envolver e por uma class em determinada frase 
+OBS: PODE POR VARIAS CLASS DENTRO DO ELEMENTO SO DAR ESPACO E POR O NOME DA CLASS 
+OBS:O ID SOBREPOEM A CLASS 
+
+Tag a:visited: serve para alterar o link quando visitado cor,fonte etc..
+Tag a:active: para quando clicar acontecer alguma acão, corc fonte mudar etc...
+
+Pseudo classe usar :
+Pseudo elemento usar ::
+
+box level
+incline level
+
+Margin:Auto para centralizar
+Outline serve para ficar do lado da margem tracejado 
+
+PARA DEIXAR O CONTORNO DO TAMANHO DO TEXTO EM VOLTA E SO POR DISPLAY:INLINE
+DISPLAY BLOCK OCUPA A LINHA INTEIRA O INLINE SO ONDE TEM ELEMENTO 
+
+Mackflow usa para fazer uma estrutura ou desenho de um site
+TAG ASIDE USADO PARA CONTEUDO ALTERNATIVO 
